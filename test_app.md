@@ -1,7 +1,7 @@
 # Hello World, I love RoR!!!
 
 ```ruby
-puts ```"Hello World!"
+puts "Hello World!"
 ```
 
 This is my first Markdown!!! 
